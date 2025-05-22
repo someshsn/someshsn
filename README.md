@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello, I'm Somesh Vishnu Nagarikar</h1>
+<h1 align="center">👋 Hello, I'm Somesh Vishnu Nagarikar</h1> 
 <h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" alt="Data Analyst GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEzZTFmYm53eXNjazczZWF5N3hlbzU2cDJkYWc3a3R5Z2Y4cDlreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eipJtN9zoYeZnLRQvX/giphy.gif" width="100" alt="Data Analyst GIF"/>
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=someshsn&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
   </a>
 </p>
+
 
 ---
 
