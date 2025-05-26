@@ -1,32 +1,34 @@
 <h1 align="center">👋 Hello, I'm Somesh Vishnu Nagarikar</h1> 
 <h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
 
-<div align="center" style="background-color: #f0f0f0; /* light grey */
-  border-radius: 20px;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 25px;
-  padding: 20px 30px;
-  max-width: fit-content;
-  margin: 0 auto 30px auto;
-  overflow: hidden;
-  border: 1px solid #ccc;
-">
+<p align="center">
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEzZTFmYm53eXNjazczZWF5N3hlbzU2cDJkYWc3a3R5Z2Y4cDlreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eipJtN9zoYeZnLRQvX/giphy.gif" 
-       width="120" 
-       alt="Data Analyst GIF" 
-       style="background: transparent; border-radius: 12px;"
-  />
+  <!-- GitHub Stars -->
+  <a href="https://github.com/someshsn?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/someshsn?style=social" alt="GitHub Stars"/>
+  </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=someshsn&show_icons=true&theme=dracula" 
-       alt="GitHub Stats" 
-       style="display:block; height: 100px;"
-  />
+  <!-- GitHub Followers -->
+  <a href="https://github.com/someshsn?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/someshsn?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
 
-</div>
+  <!-- Public Repositories -->
+  <a href="https://github.com/someshsn?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public%20Repos-COUNT-blue?style=flat&logo=github" alt="Public Repos"/>
+  </a>
+
+  <!-- Profile Visitors (via Visitor Badge Service) -->
+  <a href="https://github.com/someshsn" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=someshsn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+
+  <!-- Contributions Badge (Static Placeholder) -->
+  <a href="https://github.com/someshsn" target="_blank">
+    <img src="https://img.shields.io/badge/Contributions-365%2B-green?style=flat&logo=github" alt="GitHub Contributions"/>
+  </a>
+
+</p>
 
 
 
