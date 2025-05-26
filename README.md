@@ -1,15 +1,33 @@
 <h1 align="center">👋 Hello, I'm Somesh Vishnu Nagarikar</h1> 
 <h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEzZTFmYm53eXNjazczZWF5N3hlbzU2cDJkYWc3a3R5Z2Y4cDlreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eipJtN9zoYeZnLRQvX/giphy.gif" width="100" alt="Data Analyst GIF"/>
-</p>
+<div align="center" style="background-color: #f0f0f0; /* light grey */
+  border-radius: 20px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  padding: 20px 30px;
+  max-width: fit-content;
+  margin: 0 auto 30px auto;
+  overflow: hidden;
+  border: 1px solid #ccc;
+">
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=someshsn&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-  </a>
-</p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEzZTFmYm53eXNjazczZWF5N3hlbzU2cDJkYWc3a3R5Z2Y4cDlreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eipJtN9zoYeZnLRQvX/giphy.gif" 
+       width="120" 
+       alt="Data Analyst GIF" 
+       style="background: transparent; border-radius: 12px;"
+  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=someshsn&show_icons=true&theme=dracula" 
+       alt="GitHub Stats" 
+       style="display:block; height: 100px;"
+  />
+
+</div>
+
 
 
 ---
