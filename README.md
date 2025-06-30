@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Somesh Vishnu Nagarikar</h1> 
-<h4 align="center">⚒️ Currently Working in <b>Web Beta (Acube AI) </b></h4> 
+<h4 align="center">⚒️ Currently Working in <b>Web Beta Pvt Ltd. (Acube AI) </b></h4> 
 <h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
 
 <p align="center">
@@ -63,7 +63,7 @@
 
 ---
 
-### 📈 What Data Analysts Do
+### 📈 My Role as Data Analyst at Web Beta Pvt Ltd (Acube AI)
 
 ✅ Gather, clean, and organize large datasets  
 ✅ Use tools like SQL, Power BI, and DAX to extract insights  
