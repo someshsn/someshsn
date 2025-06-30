@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hello, I'm Somesh Vishnu Nagarikar</h1> 
 <h4 align="center">⚒️ Currently Working in <b>Web Beta Pvt Ltd. (Acube AI) </b></h4> 
 <h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
+<p align="center">
+  <a href="https://someshsn.github.io/" target="_blank">See me</a>
+</p>
+
 
 <p align="center">
 
